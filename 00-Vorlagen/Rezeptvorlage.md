@@ -37,5 +37,5 @@ Hier können Tipps und Empfehlungen bezüglich des Rezepts beschrieben werden z.
 
 Hier können ein oder mehrere Bilder des fertigen Gerichts eingefügt werden z. B.
 
-![](01-Pictures\Beispielbild.jpg)
+![](01-Pictures/Beispielbild.jpg)
 
