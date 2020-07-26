@@ -39,3 +39,7 @@ Hier können ein oder mehrere Bilder des fertigen Gerichts eingefügt werden z. 
 
 ![](01-Pictures/Beispielbild.jpg)
 
+------
+
+<p align="center">| <a href="../index.md">Zurück</a> |</p>
+
