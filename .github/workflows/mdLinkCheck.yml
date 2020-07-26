@@ -1,7 +1,13 @@
 
 name: Check Markdown links
 
-on: push
+#on: push
+    #branches:
+        #- master
+        
+on: pull_request:
+  branches:
+    - main
 
 jobs:
   markdown-link-check:
