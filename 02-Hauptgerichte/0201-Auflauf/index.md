@@ -1,8 +1,8 @@
 # Inhaltsverzeichnis
 
-### Auflauf
+### Aufläufe
 
-- Rezeptlink
+- [Mexikanischer Hänchenauflauf](mexHaenchenAuflauf.md)
 
 
 
