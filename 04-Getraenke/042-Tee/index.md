@@ -1,6 +1,6 @@
 # Inhaltsverzeichnis
 
-### Nachspeisen
+### Tee
 
 - Rezeptlink
 
