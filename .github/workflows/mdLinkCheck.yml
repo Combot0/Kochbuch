@@ -1,12 +1,12 @@
 
-name: Check Markdown links
+#name: Check Markdown links
 
 #on: push
     #branches:
         #- master
         
 on: [pull_request]
-
+name: Check links for modified files
 jobs:
     markdown-link-check:
         runs-on: ubuntu-latest
@@ -16,7 +16,7 @@ jobs:
             with:
                 use-quiet-mode: 'yes'
                 use-verbose-mode: 'yes'
-                config-file: 'mlc_config.json'
+                #config-file: 'mlc_config.json'
                 check-modified-files-only: 'yes'
     # Use yes to enable markdown-link-check quiet mode which only list errors.
     # use-quiet-mode: # default is no
