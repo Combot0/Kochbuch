@@ -13,6 +13,7 @@ jobs:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'yes'
         config-file: 'mlc_config.json'
+        check-modified-files-only: 'yes'
     # Use yes to enable markdown-link-check quiet mode which only list errors.
     # use-quiet-mode: # default is no
     # Use yes to enable markdown-link-check verbose mode which lists additional details.
