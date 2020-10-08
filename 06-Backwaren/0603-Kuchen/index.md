@@ -2,7 +2,7 @@
 
 ### Kuchen
 
-- Link auf Kategorie / Rezept
+- [Wattekuchen](wattekuchen.md)
 
 
 
