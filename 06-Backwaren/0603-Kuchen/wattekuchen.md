@@ -35,8 +35,6 @@ Ein wunderbar leichter und fluffiger Kuchen, welcher einfach und blitzschnell zu
 
 ![Wattekuchen_1](../0601-Pictures/03-Kuchen/0603_wattekuchen_1.jpg) ![Wattekuchen_2](../0601-Pictures/03-Kuchen/0603_wattekuchen_2.jpg)
 
-
-
 ------
 
 <p align="center">| <a href="../index.md">Zurück</a> |</p>
