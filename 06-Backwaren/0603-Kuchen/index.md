@@ -9,5 +9,4 @@
 
 ------
 
-<p align="center">| <a href="../index.md">Zurück</a> |</p>
-
+[Zurück](../index.md)
