@@ -41,5 +41,4 @@ Hier können ein oder mehrere Bilder des fertigen Gerichts eingefügt werden z. 
 
 ------
 
-<p align="center">| <a href="../index.md">Zurück</a> |</p>
-
+[Zurück](../index.md)

@@ -37,6 +37,4 @@ Ein wunderbar leichter und fluffiger Kuchen, welcher einfach und blitzschnell zu
 
 ------
 
-<p align="center">| <a href="../index.md">Zurück</a> |</p>
-
 [Zurück](../index.md)
