@@ -36,5 +36,4 @@ Es handelt sich um ein Gericht, welches mit wenig Aufwand und nur einer Auflauff
 
 ------
 
-<p align="center">| <a href="../index.md">Zurück</a> |</p>
-
+[Zurück](../index.md)
